@@ -1,0 +1,7 @@
+settings.json
+{
+    "python.pythonPath": "/Users/tshu1/ghq/github.com/tshu1/practice-python/venv/bin/python",
+    "python.venvFolders": [
+        "venv"
+    ]
+}
